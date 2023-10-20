@@ -48,4 +48,4 @@
 - **Error Handling:**
   - The script includes error handling to ensure smooth execution. If there are any issues, the script will display appropriate messages.
 
-# :) This script made for myself. You can report about issues and I fix it ASAIC (As Soon As I Can) :)
+# 😀 This script made for myself. You can report about issues and I fix it ASAIC (As Soon As I Can) 😀
