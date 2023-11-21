@@ -1,11 +1,11 @@
-## How to Use the PDF Divider Script
+## How to Use the PDF Splitter Script
 
 ### Prerequisites:
 - **Python Installed:** Ensure you have Python installed on your system. You can download and install Python from the official [Python website](https://www.python.org/downloads/).
 
 
 ### Step 1: Download the Script
-- **Download the Script:** Copy the provided Python script into a file named `divider.py`.
+- **Download the Script:** Copy the provided Python script into a file named `splitter.py`.
 - **Input PDF File:** Change filename to `input.pdf` and put it in the script directory.
 
 ### Step 2: Run the Script
@@ -14,7 +14,7 @@
   - On macOS and Linux, open Terminal.
 
 - **Navigate to the Script Directory:**
-  - Use the `cd` command to change your current directory to where the `divider.py` file is located. For example:
+  - Use the `cd` command to change your current directory to where the `splitter.py` file is located. For example:
     ```
     cd path/to/script-directory
     ```
@@ -22,7 +22,7 @@
 - **Run the Script:**
   - Type the following command and press Enter to run the script:
     ```
-    python divider.py
+    python splitter.py
     ```
   - The script will execute and prompt you for the required information.
 
