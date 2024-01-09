@@ -3,6 +3,8 @@
   <img src="https://www.lukovskii.com/assets/imagehost/scissors.png" alt="logo" height="250">
 </a>
 
+## About: 
+The PDF Splitter Script is a Python tool that simplifies the process of breaking down large PDF files into smaller groups of pages. Users can customize the splitting based on the number of pages per group, providing a user-friendly solution for managing and organizing PDF documents. The script includes error handling for smooth execution and is part of the PDF Splitter GitHub repository. Developed for personal use, users are encouraged to report issues for timely resolution.
 
 ### Prerequisites:
 - **Python Installed:** Ensure you have Python installed on your system. You can download and install Python from the official [Python website](https://www.python.org/downloads/).
