@@ -1,8 +1,8 @@
-<a href="https://example.com/">
+## How to Use the PDF Splitter Script
+<a href="https://github.com/toprogramm/pdf-splitter">
   <img src="https://www.lukovskii.com/assets/imagehost/scissors.png" alt="logo" height="250">
 </a>
 
-## How to Use the PDF Splitter Script
 
 ### Prerequisites:
 - **Python Installed:** Ensure you have Python installed on your system. You can download and install Python from the official [Python website](https://www.python.org/downloads/).
