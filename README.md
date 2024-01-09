@@ -1,3 +1,7 @@
+<a href="https://example.com/">
+  <img src="https://www.lukovskii.com/assets/imagehost/scissors.png" alt="logo" height="250">
+</a>
+
 ## How to Use the PDF Splitter Script
 
 ### Prerequisites:
