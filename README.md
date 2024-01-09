@@ -55,3 +55,5 @@ The PDF Splitter Script is a Python tool that simplifies the process of breaking
   - The script includes error handling to ensure smooth execution. If there are any issues, the script will display appropriate messages.
 
 # 😀 This script made for myself. You can report about issues and I fix it ASAIC (As Soon As I Can) 😀
+
+<a href="https://www.freepik.com/free-vector/back-school-set-icons_4985031.htm#query=scissors&position=21&from_view=search&track=sph&uuid=fbde3ae1-402d-46d1-bd09-eaaad55b5990">Image by stockgiu</a> on Freepik
