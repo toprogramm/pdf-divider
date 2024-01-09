@@ -1,5 +1,5 @@
 ## How to Use the PDF Splitter Script
-<a href="https://github.com/toprogramm/pdf-splitter">
+<a href="https://github.com/toprogramm/pdf-splitter/tree/main">
   <img src="https://www.lukovskii.com/assets/imagehost/scissors.png" alt="logo" height="250">
 </a>
 
